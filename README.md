@@ -55,7 +55,7 @@ A commercial team project focused on restaurant table reservations.
 - Integrated frontend functionality with backend API endpoints.
 - Ran the frontend and backend locally as part of a combined solution.
 
-*Public demo will be added later.*
+[GitHub Repository](https://github.com/Akdh-a/table-reservation-project.git)
 
 ### FaceitFocuser
 **Personal Project | Chrome Extension**
