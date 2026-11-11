@@ -45,7 +45,7 @@ Expected graduation: June 2027
 
 ## Featured Projects
 
-### BRON — Restaurant Table Booking System
+### ReserVator — Restaurant Table Booking System
 **Frontend Developer & UI/UX Designer**
 
 A commercial team project focused on restaurant table reservations.
