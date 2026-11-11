@@ -112,9 +112,9 @@ Outside of technology, I play volleyball, follow esports — especially CS2 — 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akdh-a&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=akdh-a&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akdh-a&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=akdh-a&layout=compact&hide_border=true&theme=transparent)
 
 <!--
 **Akdh-a/Akdh-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
